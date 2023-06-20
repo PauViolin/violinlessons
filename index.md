@@ -51,8 +51,8 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
+      <strong>Piano accompaniment</strong><span class="light">&nbsp;to make your
+      learning a much enjoyable experience</span>
     content:
       Each block comes with custom Front Matter that can be edited in
       Forestry CMS.
