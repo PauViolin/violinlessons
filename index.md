@@ -23,14 +23,13 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: uBuild <br><strong>design blocks</strong>
+    headline: Violin Lessons <br><strong>Pau Antoni</strong>
     content:
-      The tool that allows you to build beautiful sites<br>all inside Forestry's
-      content manager.
+      Violin Lessons in Spanish, English, German, Italian adapted at your level.
     cta:
       enabled: true
       url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      button_text: "See on YouTube "
     image:
       image: "/uploads/2018/06/21/product-shot-1.png"
       alt_text: Product Shot
