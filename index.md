@@ -40,7 +40,7 @@ page_sections:
     slug: swap
     headline:
       <strong>Über mich<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
+      class="light"></span>
     content:
       Ich komme aus Spanien und mein Bachelor- und Masterstudium schloss ich an der Musikhochschule Joaquin Rodrigo in Valencia ab. In dieser Zeit habe ich ein Jahr lang an der Musikhochschule Franz Liszt in Weimar studiert. Nach dem Abschluss meiner Masterarbeit arbeitete ich im Stadtorchester in Valencia. Ich habe auch 5 Jahre als Violine- und Klavierlehrer für Kinder und Erwachsene in einer privaten Musikschule und in der Yamaha Music School Valencia gearbeitet. media:
       image: "/uploads/2018/06/21/blocks-split.png"
