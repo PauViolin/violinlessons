@@ -39,7 +39,7 @@ page_sections:
     media_alignment: Left
     slug: swap
     headline:
-      <strong>Learn &amp; have fun<span class="light">&nbsp;</span></strong><span
+      <strong>Über mich<span class="light">&nbsp;</span></strong><span
       class="light">the Blocks to create sites quickly</span>
     content:
       Make a difference in your learning process.
