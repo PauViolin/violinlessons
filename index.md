@@ -52,7 +52,7 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <strong>Klassik-, Volks- oder Modernemusik?</strong><span class="light">&nbsp;Die Basis sind immer die gleiche. Mit meiner Methode kannst Du auch gleichzeitig Musiktheorie. Sag mir dein Ziel und wir werden die perfekte Stücke und Übungen für Dich finden.</span>
+      <strong>Klassik-, Volks- oder Modernemusik?</strong><span class="light">&nbsp;Die Basis sind immer die gleiche. Mit meiner Methode kannst Du auch gleichzeitig Musiktheorie lernen. Sag mir dein Ziel und wir werden die perfekte Stücke und Übungen für Dich finden.</span>
     content:
       Each block comes with custom Front Matter that can be edited in
       Forestry CMS.
