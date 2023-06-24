@@ -23,9 +23,9 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: Violin Lessons <br><strong>Pau Antoni</strong>
+    headline: Violin- und Klavierlektionen <br><strong>Pau Antoni</strong>
     content:
-      Violin Lessons in Spanish, English, German, Italian adapted at your level.
+      Lektionen auf Deutsch, Englisch, Spanisch und Italienisch, an deinem Nievau angepasst.
     cta:
       enabled: true
       url: https://github.com/forestryio/ubuild-jekyll
